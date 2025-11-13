@@ -1,0 +1,6 @@
+title,company,location,description,posted_at,url
+Data Scientist,BMW,Munich,"We are looking for a Data Scientist with experience in Python, SQL, and machine learning.",2025-11-01,https://example.com/bmw-ds
+Data Analyst,Siemens,Berlin,"Strong analytical skills and experience with Power BI, Excel, and SQL.",2025-10-28,https://example.com/siemens-da
+Machine Learning Engineer,Mercedes,Stuttgart,"Knowledge of TensorFlow, PyTorch, and cloud deployment (AWS/GCP).",2025-11-05,https://example.com/mercedes-ml
+Data Engineer,Deutsche Telekom,Bonn,"ETL pipeline development using Airflow, dbt, and Docker.",2025-10-30,https://example.com/telekom-de
+Business Analyst,SAP,Walldorf,"Focus on KPI dashboards, business insights, and SQL queries.",2025-11-03,https://example.com/sap-ba
