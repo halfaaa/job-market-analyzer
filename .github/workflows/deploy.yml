@@ -13,8 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Push to Hugging Face Space
-        uses: huggingface/hub@v0.4.4
+      - name: Deploy to HF
+        uses: huggingface/hub@v0.2
         with:
           repo-token: ${{ secrets.HF_TOKEN }}
           repo-id: "Halfaaa/job-market-analyzer"
